@@ -7,7 +7,23 @@ Apache Ranger 2.1 builded packages
 
 
 #### Compatible Versions
-`<properties>
+`<presto.re2j.version>1.1</presto.re2j.version>
+
+    <!-- Azure Key Vault dependencies -->
+        <com.microsoft.azure.version>1.22.0</com.microsoft.azure.version>
+        <com.microsoft.azure.azure-keyvault.version>1.2.1</com.microsoft.azure.azure-keyvault.version>
+        <com.microsoft.azure.azure-mgmt-keyvault.version>1.22.0</com.microsoft.azure.azure-mgmt-keyvault.version>
+        <com.microsoft.rest.client-runtime.version>1.6.7</com.microsoft.rest.client-runtime.version>
+        <com.microsoft.azure.azure-client-runtime.version>1.6.7</com.microsoft.azure.azure-client-runtime.version>
+        <com.microsoft.azure.adal4j.version>1.6.4</com.microsoft.azure.adal4j.version>
+        <io.reactivex.rxjava.version>1.3.8</io.reactivex.rxjava.version>
+        <net.minidev.asm.version>1.0.2</net.minidev.asm.version>
+        <org.bouncycastle.bcprov-jdk15on>1.59</org.bouncycastle.bcprov-jdk15on>
+        <org.bouncycastle.bcpkix-jdk15on>1.59</org.bouncycastle.bcpkix-jdk15on>
+        <lucene.version>8.4.0</lucene.version>
+        <hppc.version>0.8.0</hppc.version>
+        <joda.time.version>2.10.6</joda.time.version>
+        <log4j.core.version>2.11.1</log4j.core.version>
         <maven.version.required>3.6.2</maven.version.required>
         <java.version.required>1.8</java.version.required>
         <javac.source.version>1.8</javac.source.version>
@@ -146,20 +162,4 @@ Apache Ranger 2.1 builded packages
         <presto.guice.version>4.2.2</presto.guice.version>
         <presto.guava.version>26.0-jre</presto.guava.version>
         <presto.validation-api.version>2.0.1.Final</presto.validation-api.version>
-        <presto.re2j.version>1.1</presto.re2j.version>
-
-    <!-- Azure Key Vault dependencies -->
-        <com.microsoft.azure.version>1.22.0</com.microsoft.azure.version>
-        <com.microsoft.azure.azure-keyvault.version>1.2.1</com.microsoft.azure.azure-keyvault.version>
-        <com.microsoft.azure.azure-mgmt-keyvault.version>1.22.0</com.microsoft.azure.azure-mgmt-keyvault.version>
-        <com.microsoft.rest.client-runtime.version>1.6.7</com.microsoft.rest.client-runtime.version>
-        <com.microsoft.azure.azure-client-runtime.version>1.6.7</com.microsoft.azure.azure-client-runtime.version>
-        <com.microsoft.azure.adal4j.version>1.6.4</com.microsoft.azure.adal4j.version>
-        <io.reactivex.rxjava.version>1.3.8</io.reactivex.rxjava.version>
-        <net.minidev.asm.version>1.0.2</net.minidev.asm.version>
-        <org.bouncycastle.bcprov-jdk15on>1.59</org.bouncycastle.bcprov-jdk15on>
-        <org.bouncycastle.bcpkix-jdk15on>1.59</org.bouncycastle.bcpkix-jdk15on>
-        <lucene.version>8.4.0</lucene.version>
-        <hppc.version>0.8.0</hppc.version>
-        <joda.time.version>2.10.6</joda.time.version>
-        <log4j.core.version>2.11.1</log4j.core.version>  
+          
