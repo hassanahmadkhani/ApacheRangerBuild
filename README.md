@@ -7,7 +7,7 @@ Apache Ranger 2.1 builded packages
 
 
 #### Compatible Versions
-`
+
 
     
         <com.microsoft.azure.version>1.22.0</com.microsoft.azure.version>
