@@ -162,4 +162,4 @@ Apache Ranger 2.1 builded packages
         <lucene.version>8.4.0</lucene.version>
         <hppc.version>0.8.0</hppc.version>
         <joda.time.version>2.10.6</joda.time.version>
-        <log4j.core.version>2.11.1</log4j.core.version>`  
+        <log4j.core.version>2.11.1</log4j.core.version>  
