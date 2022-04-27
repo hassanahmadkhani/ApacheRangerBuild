@@ -7,8 +7,7 @@ Apache Ranger 2.1 builded packages
 
 
 #### Compatible Versions
-`      <presto.re2j.version>1.1</presto.re2j.version>
-
+`      
         <com.microsoft.azure.version>1.22.0</com.microsoft.azure.version>
         <com.microsoft.azure.azure-keyvault.version>1.2.1</com.microsoft.azure.azure-keyvault.version>
         <com.microsoft.azure.azure-mgmt-keyvault.version>1.22.0</com.microsoft.azure.azure-mgmt-keyvault.version>
@@ -161,5 +160,4 @@ Apache Ranger 2.1 builded packages
         <presto.guava.version>26.0-jre</presto.guava.version>
         <presto.validation-api.version>2.0.1.Final</presto.validation-api.version>
         
-    </properties>
-    `
+   
