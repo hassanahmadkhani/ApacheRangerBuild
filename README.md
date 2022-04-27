@@ -7,9 +7,9 @@ Apache Ranger 2.1 builded packages
 
 
 #### Compatible Versions
-`<presto.re2j.version>1.1</presto.re2j.version>
+`
 
-    <!-- Azure Key Vault dependencies -->
+    
         <com.microsoft.azure.version>1.22.0</com.microsoft.azure.version>
         <com.microsoft.azure.azure-keyvault.version>1.2.1</com.microsoft.azure.azure-keyvault.version>
         <com.microsoft.azure.azure-mgmt-keyvault.version>1.22.0</com.microsoft.azure.azure-mgmt-keyvault.version>
