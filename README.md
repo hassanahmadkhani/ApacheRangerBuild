@@ -7,7 +7,8 @@ Apache Ranger 2.1 builded packages
 
 
 #### Compatible Versions
-`<properties>
+`
+<properties>
         <maven.version.required>3.6.2</maven.version.required>
         <java.version.required>1.8</java.version.required>
         <javac.source.version>1.8</javac.source.version>
@@ -161,4 +162,5 @@ Apache Ranger 2.1 builded packages
         <hppc.version>0.8.0</hppc.version>
         <joda.time.version>2.10.6</joda.time.version>
         <log4j.core.version>2.11.1</log4j.core.version>
-    </properties>`
+    </properties>
+    `
