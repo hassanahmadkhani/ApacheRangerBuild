@@ -7,7 +7,7 @@ Apache Ranger 2.1 builded packages
 
 
 #### Compatible Versions
-`    <properties>
+`<properties>
         <maven.version.required>3.6.2</maven.version.required>
         <java.version.required>1.8</java.version.required>
         <javac.source.version>1.8</javac.source.version>
