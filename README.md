@@ -19,7 +19,14 @@ Hive Plugin : https://drive.google.com/file/d/12Hn-VZu_0qv2VJbHH2NI-BF7n54K-lQy/
 <br/><br/>
 
 
-#### Compatible Versions
+Apache Ranger 2.3 builded packages
+
+
+
+
+
+
+#### Compatible Versions for 2.1
 
 
     
