@@ -20,7 +20,15 @@ Hive Plugin : https://drive.google.com/file/d/12Hn-VZu_0qv2VJbHH2NI-BF7n54K-lQy/
 
 ### Apache Ranger 2.3 builded packages
 
+Ranger Admin : https://drive.google.com/file/d/1Z6SR01XQv1q28oDHEl-kJVCVcl9zfKcN/view?usp=drive_link
+<br/>
+Ranger User Sync ( From OS or LDAP ) : https://drive.google.com/file/d/1VkACMpx1_3tf7XW_gscleZkXPVHLF6tC/view?usp=drive_link
+<br/>
+Ranger KMS : https://drive.google.com/file/d/1Hq7H2g64uARFDkZO1eGxW0ngV8dudC4p/view?usp=drive_link
+<br/>
+Trino (377) Plugin : https://drive.google.com/file/d/1qa_j1jxwiDceEygpfX12082FJQGQHl5f/view?usp=drive_link
 
+<br/><br/>
 
 
 
